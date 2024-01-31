@@ -1,6 +1,6 @@
 # WordPress Automated Deployment with Nginx, LEMP Stack, and GitHub Actions
 
-This repository contains the code and configurations for setting up an automated deployment process for a WordPress website using Nginx, LEMP stack (Linux, Nginx, MySQL, PHP), and GitHub Actions as the CI/CD automation tool.
+This repository contains the code and configurations for setting up an automated deployment process for a WordPress website using Nginx, LEMP stack (Linux, Nginx, MySQL, PHP), and GitHub Actions as the CI/CD automation tool will be added soon.
 
 ## Server Provisioning
 
